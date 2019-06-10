@@ -11,7 +11,8 @@
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url("../src/1920px-Central_steren.jpg");
+    background-size: cover;
+    background-image: url("https://img.chilango.com/2019/05/taqueria-regala-tacos-si-llevas-tu-huawei-2.jpg");
 }
 
 .ewk_sobraprueba{
